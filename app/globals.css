@@ -4,7 +4,6 @@
 @custom-variant dark (&: is(.dark *));
 
 /* start style design system figma */
-
 @theme {
   /* Font Family */
 
